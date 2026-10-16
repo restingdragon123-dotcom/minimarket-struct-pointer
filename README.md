@@ -12,4 +12,4 @@ NRP : 5022261120
 gcc minimarket_eng.c -o minimarket./minimarket
 
 (Result of the program)
-![OUTPUT] (screenshot.png)
+![OUTPUT](screenshot.png)
